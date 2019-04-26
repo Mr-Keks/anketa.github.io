@@ -17,7 +17,7 @@
 		bottom: 60px;
 		position: absolute;
 }
-@media(min-width: 493px){
+@media(min-width: 0px){
 	.b1{
 		left:200px;
 	}
