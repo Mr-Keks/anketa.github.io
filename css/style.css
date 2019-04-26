@@ -1,0 +1,35 @@
+.container {
+	margin: 50px;
+}
+
+.col-xl-3{
+	 height: 550px;
+	 padding: 0;
+}
+.liw {
+	background-color: #626262;
+	width: 250px;
+	height: 100%;
+	position: relative;
+}
+.q-text{
+	padding: 20px;
+	padding-top: 20px;
+	color: white;
+}
+.b1{
+	position: absolute;
+	left:70px;
+}
+
+.b2{
+	position: absolute;
+	right: 15px;
+}
+.b1, .b2{
+	bottom: 60px;
+}
+
+.col-lg-5{
+	margin-bottom: 20px;
+}
