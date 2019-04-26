@@ -25,10 +25,17 @@
 		right: 40px;
 	}
 	.b1, .b2 {
-		bottom:50px;
+		bottom:20px;
 	}
 }
-
+@media(min-width: 480px){
+	.b1{
+		left:200px;
+	}
+	.b2{
+		right: 40px;
+	}
+}
 @media(min-width: 768px){
 	.b1{
 		left: 90px;
