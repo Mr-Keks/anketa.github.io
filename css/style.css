@@ -22,54 +22,8 @@
 		bottom: 60px;
 		position: absolute;
 }*/
-/*@media(min-width: 240px){
-	.b1{
-		left:20px;
-	}
-	.b2{
-		right: 10px;
-	}
-	.b1, .b2 {
+@media(min-width: 240px){
+	.but {
 		bottom:20px;
 	}
 }
-@media(min-width: 480px){
-	.b1{
-		left:200px;
-	}
-	.b2{
-		right: 40px;
-	}
-}
-@media(min-width: 768px){
-	.b1{
-		left: 90px;
-	}
-	.b2 {
-		right: 30px;
-	}
-	.b1, .b2 {
-		bottom: 70px;
-	}
-}
-@media (min-width: 992px){
-	.b1{
-		left: 20px;
-	}
-	.b2{
-		right: 10px;
-	}
-	.b1, .b2 {
-		bottom: 50px;
-	}
-}
-@media (min-width:1200px ){
-
-	.b2{
-		right: 15px;
-	}
-	.b1{
-		left:70px;
-	}
-
-}*/
